@@ -1,0 +1,17 @@
+name,cobyla_values,spsa_values
+effsu2_Ry_c,3.19141,3.15703
+effsu2_Rz_c,3.1498,3.1498
+effsu2_RyRz_c,3.15801,3.16816
+effsu2_RyY_c,3.15977,3.16641
+effsu2_Ry_f,3.15918,3.15332
+effsu2_Rz_f,3.1498,3.1498
+effsu2_RyRz_f,3.16211,3.15137
+effsu2_RyY_f,3.15664,3.15137
+tl_Ry_c,3.14629,3.14941
+tl_Rz_c,3.1498,3.1498
+tl_RyRz_c,3.15762,3.15645
+tl_RyY_c,3.14629,3.14941
+tl_Ry_f,3.14844,3.1498
+tl_Rz_f,3.1498,3.1498
+tl_RyRz_f,3.16992,3.15605
+tl_RyY_f,3.14844,3.1498
