@@ -1,9 +1,9 @@
-# Exploring new variational quantum circuit ansatze for solving SU(2) matrix models
+# Exploring new variational quantum circuit ansatzes for solving SU(2) matrix models
 
-This repo contains the Python codes for the paper `Exploring new variational quantum circuit ansatze for solving SU(2) matrix models', 	
+This repo contains the Python codes for the paper `Exploring new variational quantum circuit ansatzes for solving SU(2) matrix models', 	
 arXiv:2503.13368 [quant-ph]: https://arxiv.org/abs/2503.13368
 
-Using IBM Qiskit, three types of variational quantum circuit ansatze were used to run the Variational Quantum Eigensolver (VQE) algorithms:
+Using IBM Qiskit, three types of variational quantum circuit ansatzes were used to run the Variational Quantum Eigensolver (VQE) algorithms:
 - EfficientSU2: https://docs.quantum.ibm.com/api/qiskit/qiskit.circuit.library.EfficientSU2
 - TwoLocal: https://docs.quantum.ibm.com/api/qiskit/qiskit.circuit.library.TwoLocal
 - EvolvedOperatorAnsatz: https://docs.quantum.ibm.com/api/qiskit/qiskit.circuit.library.EvolvedOperatorAnsatz
